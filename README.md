@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nayab. I'm a Fronten
+- 👋 Hi, I’m Nayab. I'm a Frontend
 - 👀 I’m interested in Frontend Development.
 - 🌱 My tech Stack is JavaScript, ReactJs, TypeScript,Cypress and much more!
 - 💞️ I’m Looking to collaborate on Frontend Side
