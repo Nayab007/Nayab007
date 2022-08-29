@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nayab</h1>
+
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
 <img align="right" alt="Coding" width="500" src="https://github.com/Nayab007/Nayab007/blob/main/cowboy_on_computer.gif">
