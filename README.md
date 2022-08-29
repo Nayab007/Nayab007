@@ -1,4 +1,4 @@
-<p><img aligh="center" alt="Coding" src="https://github.com/Nayab007/Nayab007/blob/main/0e0bfc64f7507f17719ab85850f90999.gif" width"600" height="320"></p>
+
 <h1 align="center">Hi 👋, I'm Nayab</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
