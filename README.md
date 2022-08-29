@@ -1,4 +1,4 @@
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/Nayab007/Nayab007/blob/main/cowboy_on_computer.gif)
 <h1 align="center">Hi 👋, I'm Nayab</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
