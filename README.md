@@ -1,6 +1,7 @@
 <p><img aligh="center" alt="Coding" src="https://github.com/Nayab007/Nayab007/blob/main/0e0bfc64f7507f17719ab85850f90999.gif" width"600" height="320"></p>
 <h1 align="center">Hi 👋, I'm Nayab</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayab007&label=Profile%20views&color=0e75b6&style=flat" alt="nayab007" /> </p>
