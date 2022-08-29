@@ -1,8 +1,8 @@
-![](https://github.com/Nayab007/Nayab007/blob/main/cowboy_on_computer.gif)
+
 <h1 align="center">Hi 👋, I'm Nayab</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="center" alt="Coding" width="400" src="https://github.com/Nayab007/Nayab007/blob/main/cowboy_on_computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayab007&label=Profile%20views&color=0e75b6&style=flat" alt="nayab007" /> </p>
 
