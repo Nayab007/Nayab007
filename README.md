@@ -3,7 +3,6 @@
 
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
-<img align="right" alt="Coding" width="500" src="https://github.com/Nayab007/Nayab007/blob/main/cowboy_on_computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayab007&label=Profile%20views&color=0e75b6&style=flat" alt="nayab007" /> </p>
 
