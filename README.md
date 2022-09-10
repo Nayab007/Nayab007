@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolionextjs-dusky.vercel.app/](https://portfolionextjs-dusky.vercel.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJs, HTML, CSS**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJs, HTML, CSS** 
 
 - 📫 How to reach me **nayab.lone@hyperisland.se**
 
