@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **nayab.lone@hyperisland.se**
 
-- ⚡ Fun fact **break things and build them again.**...
+- ⚡ Fun fact **break things and build them again.**..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
