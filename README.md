@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **job searching website**
 
-- 🌱 I’m currently learning **react native and GraphQL**
+- 🌱 I’m currently learning **react native and GraphQL** 
 
 - 👯 I’m looking to collaborate on **any open soucre projects**
 
