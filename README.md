@@ -1,6 +1,6 @@
 ## <h3 align="center"> <img src="https://www.clipartmax.com/png/full/434-4340866_svg-transparent-download-a-f-d-aa-orig-pinterest-cobra-snake-cartoon.png" alt="blender" width="40" height="60"/> Eating my graph  </h3>   
 
-![snake gif](https://github.com/Nayab007/Nayab007/blob/output/github-contribution-grid-snake.svg)       
+![snake gif] (https://github.com/Nayab007/Nayab007/blob/output/github-contribution-grid-snake.svg)       
 
 <h1 align="center">Hi 👋, I'm Nayab</h1>                                                                                                                                                                                   
 
