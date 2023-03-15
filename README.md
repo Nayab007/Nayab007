@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayab007&show_icons=true&locale=en" alt="nayab007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayab007&" alt="nayab007" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayab007&" alt="nayab007" /></p>  
