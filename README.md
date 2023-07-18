@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **react native and GraphQL** 
 
-- 👯 I’m looking to collaborate on **any open soucre projects**  
+- 👯 I’m looking to collaborate on **any open source projects**  
 
 - 👨‍💻 All of my projects are available at [https://portfolionextjs-dusky.vercel.app/](https://portfolionextjs-dusky.vercel.app/)
 
