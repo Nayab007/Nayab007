@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJs, HTML, CSS**
 
-- 📫 How to reach me **nayab.lone@hyperisland.se**  
+- 📫 How to reach me **nayab.lone@hyperisland.se** 
 
 - ⚡ Fun fact **break things and build them again.**... 
 
