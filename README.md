@@ -1,4 +1,4 @@
-## <h3 align="center"> <img src="https://www.clipartmax.com/png/full/434-4340866_svg-transparent-download-a-f-d-aa-orig-pinterest-cobra-snake-cartoon.png" alt="blender" width="40" height="60"/> Eating my graph </h3> 
+
 
 ![gitartwork](gitartwork.svg)
 
