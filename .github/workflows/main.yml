@@ -12,7 +12,7 @@
        - uses: nayab/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: nayab
+            user_name: nayab007
             # Text on contribution graph 
-            text: Nayab
-       - uses: nayab/simple-push-action@v1
+            text: Nayab007
+       - uses: nayab007/simple-push-action@v1
