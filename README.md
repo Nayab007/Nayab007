@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **any open source projects**  
 
-- 👨‍💻 All of my projects are available at [https://portfolionextjs-dusky.vercel.app/](https://portfolionextjs-dusky.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolionextjs-nayab007.vercel.app/
 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJs, HTML, CSS**
 
